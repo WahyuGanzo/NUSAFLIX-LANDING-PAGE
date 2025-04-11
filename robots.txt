@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nusaflix.my.id/sitemap.xml
